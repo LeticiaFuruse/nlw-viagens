@@ -22,8 +22,6 @@ Aplicação desenvolvida no NLW Journey da Rocketseat na trilha HTML+CSS+JS.
 Acesse o projeto finalizado aqui: 
 - [Acesse o projeto finalizado, online](https://leticiafuruse.github.io/nlw-viagens/)
 
-![image](https://github.com/user-attachments/assets/77e8dc85-5749-4201-8a1d-5a7aac954ddf)
-
 
 ## 🚀 Tecnologias
 
@@ -35,4 +33,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Projeto
 
-Nesse projeto iremos desenvolver uma versão simplificada de um sistema de roteiro de viagem!
+Nesse projeto foi desenvolvido uma versão simplificada de um sistema de roteiro de viagem!
+
+![image](https://github.com/user-attachments/assets/77e8dc85-5749-4201-8a1d-5a7aac954ddf)
